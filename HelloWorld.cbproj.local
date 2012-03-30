@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2012/03/30 15:24:30.823,=C:\Users\Hamed\Documents\RAD Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2012/03/30 15:25:57.994,C:\Users\Hamed\Hello-World\Main.cpp=C:\Users\Hamed\Documents\RAD Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2012/03/30 15:26:09.714,C:\Users\Hamed\Hello-World\HelloWorld.cbproj=C:\Users\Hamed\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
